@@ -1,0 +1,163 @@
+body{
+    background: #e1fce8;
+}
+header div{
+    height: 60px;
+    background: #1f6332;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+a{
+  padding: 1% 5%;
+    font-size: 25px;
+}
+a:visited, a:link{
+    color: white;
+    text-decoration: none;
+}
+header a:hover{
+    color: black;
+    background: #7bba8c;
+}
+#eden,#dva{
+    width: 80%;
+    padding: 0 10%;
+}
+.sredina{
+    display: flex;
+    justify-content: center;
+    border-bottom: black 1px solid;
+}
+.sredina h2{
+    text-decoration: #1f6332;
+    font-size: 50px;
+    font-family: Arial;
+}
+#text ,#text1{
+    text-align: center;
+}
+#rolls, #burger, #six\ of\ crows, #if\ we\ were\ villains{
+    padding: 5%;
+    display: flex;
+    align-items: center;
+}
+
+#rolls img{
+    width: 25%;
+    border-radius: 10px;
+    float: left;
+}
+#rolls .text{
+    padding: 0 5%;
+    float: right;
+    text-align: center;
+    width: 70%;
+}
+h3{
+    font-size: 40px;
+    text-shadow: #1f6332;
+}
+p, h4{
+    font-size: 20px;
+}
+#burger img{
+    width: 25%;
+    border-radius: 10px;
+    float: right;
+}
+#burger .text{
+    padding: 0 5%;
+    float: left;
+    text-align: center;
+    width: 70%;
+}
+#if\ we\ were\ villains img{
+    width: 40%;
+    border-radius: 10px;
+    float: right;
+}
+#six\ of\ crows img{
+    width: 40%;
+    border-radius: 10px;
+    float: right;
+}
+#if\ we\ were\ villains .text{
+    padding: 0 5%;
+    float: left;
+    text-align: center;
+    width: 70%;
+}
+#six\ of\ crows .text{
+    padding: 0 5%;
+    float: left;
+    text-align: center;
+    width: 70%;
+}
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 40%;
+    background: #1f6332;
+    color: white;
+    margin-top: 1%;
+}
+#dole{
+    display: flex;
+    gap: 20px;
+}
+
+#orce, #finki, #vojdan{
+    padding: 3% 10%;
+    display: flex;
+    align-items: center;
+}
+#textorce{
+    padding-left: 5%;
+    margin-left: 1%;
+}
+#textvojdan, #textfinki{
+    padding-right: 5%;
+    margin-right: 1%;
+}
+h3{
+    margin: 0 10%;
+    text-align: center;
+    border-bottom: black 1px solid;
+    padding: 2%;
+}
+h4{
+    margin: 0 10%;
+    text-align: center;
+    padding-top: 1%;
+}
+.sliki img{
+    width: 15%;
+    border-radius: 10px;
+}
+.sliki{
+    display: flex;
+    justify-content: space-around;
+    padding: 3% 10%;
+}
+#otto{
+    padding: 2% 3%;
+    margin: 0 2%;
+}
+#otto p{
+    margin: 3% 10%;
+    text-align: center;
+}
+#sliki1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#sliki1 img, video{
+    width: 25%;
+}
+
+
